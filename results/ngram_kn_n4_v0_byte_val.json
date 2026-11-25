@@ -1,0 +1,19 @@
+{
+  "model_name": "ngram_kn_n4",
+  "data_version": "v0_byte",
+  "split": "val",
+  "tag": "debug",
+  "ctx": 128,
+  "total_nll": 73564.912,
+  "num_tokens": 49999,
+  "n_chars": 38149,
+  "avg_nll": 1.471328,
+  "perplexity": 4.355,
+  "bpc": 2.782032,
+  "params": {
+    "total_params": 78794,
+    "non_embedding_params": 78794
+  },
+  "timestamp": "2026-11-20T04:51:29",
+  "git_commit": "unknown"
+}

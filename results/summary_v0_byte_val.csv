@@ -1,0 +1,4 @@
+Model,Data,Split,Tag,Total Params,Non-Emb Params,Avg NLL (nats),Perplexity,BPC
+ngram_kn_n3,v0_byte,val,debug,"22,773","22,773",1.6869,5.40,3.1897
+ngram_kn_n4,v0_byte,val,debug,"78,794","78,794",1.4713,4.36,2.7820
+lstm_l2_h256,v0_byte,val,debug,"1,116,928","1,051,136",1.3677,3.93,2.5860

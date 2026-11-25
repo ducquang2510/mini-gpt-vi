@@ -1,0 +1,15 @@
+[
+  {
+    "name": "scale_xs",
+    "num_layers": 1,
+    "hidden_dim": 64,
+    "total_params": 557440,
+    "non_embedding_params": 33152,
+    "tokens_seen": 1228800,
+    "approx_flops": 244423065600,
+    "val_loss": 5.70929,
+    "val_ppl": 301.6568,
+    "val_bpc": 2.394305,
+    "train_time_sec": 64.3
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "model_name": "lstm_l2_h256",
+  "data_version": "v1_bpe8192",
+  "split": "val",
+  "tag": "official",
+  "ctx": 256,
+  "total_nll": 1095746.3685,
+  "num_tokens": 199999,
+  "n_chars": 688017,
+  "avg_nll": 5.478759,
+  "perplexity": 239.5493,
+  "bpc": 2.297658,
+  "params": {
+    "total_params": 3148288,
+    "non_embedding_params": 1051136
+  },
+  "timestamp": "2026-11-25T01:26:47",
+  "git_commit": "unknown"
+}

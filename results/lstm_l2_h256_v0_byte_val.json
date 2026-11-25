@@ -1,0 +1,19 @@
+{
+  "model_name": "lstm_l2_h256",
+  "data_version": "v0_byte",
+  "split": "val",
+  "tag": "debug",
+  "ctx": 128,
+  "total_nll": 68382.3918,
+  "num_tokens": 49999,
+  "n_chars": 38149,
+  "avg_nll": 1.367675,
+  "perplexity": 3.9262,
+  "bpc": 2.586043,
+  "params": {
+    "total_params": 1116928,
+    "non_embedding_params": 1051136
+  },
+  "timestamp": "2026-11-20T04:51:30",
+  "git_commit": "unknown"
+}

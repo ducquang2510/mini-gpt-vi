@@ -1,0 +1,19 @@
+{
+  "model_name": "ngram_kn_n4",
+  "data_version": "v1_bpe8192",
+  "split": "val",
+  "tag": "official",
+  "ctx": 256,
+  "total_nll": 970163.2741,
+  "num_tokens": 199999,
+  "n_chars": 688017,
+  "avg_nll": 4.850841,
+  "perplexity": 127.8478,
+  "bpc": 2.034324,
+  "params": {
+    "total_params": 3223062,
+    "non_embedding_params": 3223062
+  },
+  "timestamp": "2026-11-25T01:20:33",
+  "git_commit": "unknown"
+}

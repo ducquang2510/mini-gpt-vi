@@ -1,0 +1,54 @@
+[
+  {
+    "name": "scale_xs",
+    "num_layers": 1,
+    "hidden_dim": 64,
+    "total_params": 49600,
+    "non_embedding_params": 33152,
+    "tokens_seen": 1228800,
+    "approx_flops": 244423065600,
+    "val_loss": 1.611951,
+    "val_ppl": 5.0126,
+    "val_bpc": 3.047926,
+    "train_time_sec": 32.5
+  },
+  {
+    "name": "scale_s",
+    "num_layers": 2,
+    "hidden_dim": 128,
+    "total_params": 296320,
+    "non_embedding_params": 263424,
+    "tokens_seen": 1228800,
+    "approx_flops": 1942172467200,
+    "val_loss": 1.543657,
+    "val_ppl": 4.6817,
+    "val_bpc": 2.918794,
+    "train_time_sec": 70.5
+  },
+  {
+    "name": "scale_m",
+    "num_layers": 2,
+    "hidden_dim": 256,
+    "total_params": 1116928,
+    "non_embedding_params": 1051136,
+    "tokens_seen": 1228800,
+    "approx_flops": 7749815500800,
+    "val_loss": 1.447693,
+    "val_ppl": 4.2533,
+    "val_bpc": 2.737342,
+    "train_time_sec": 72.9
+  },
+  {
+    "name": "scale_l",
+    "num_layers": 3,
+    "hidden_dim": 384,
+    "total_params": 3643008,
+    "non_embedding_params": 3544320,
+    "tokens_seen": 1228800,
+    "approx_flops": 26131562496000,
+    "val_loss": 1.534416,
+    "val_ppl": 4.6386,
+    "val_bpc": 2.901322,
+    "train_time_sec": 109.3
+  }
+]
